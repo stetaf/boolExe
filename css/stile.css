@@ -1,0 +1,106 @@
+body 
+{
+	font-family: fontExe;
+	background: url('../images/background.jpg') no-repeat fixed; 
+	background-size: cover;
+	background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+	margin: auto 18.8%;
+}
+
+body img 
+{
+	width: 100%;
+	height: auto;
+}
+
+.page 
+{
+    margin-top: 2.5%;
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 20px;
+    padding: 6% 8.5% 9% 8.5%;
+
+}
+
+@font-face {
+  font-family: fontExe;
+  src: url('Muli-Regular.ttf');
+}
+
+.logo
+{
+	font-family: fontExe;
+	text-align: center;
+	font-weight: bold;
+}
+
+.logo img
+{
+	width:245px; 
+	margin-top:2.8%;
+}
+
+.logo p
+{
+	color: limegreen;
+	font-size: 31.5px;
+	margin: 0.5% 0 0.5% 0;
+}
+
+div > p
+{
+	margin: 0 auto;
+}
+
+.options
+{
+	background: #00dd00;
+	padding: 1.2%;
+    text-align: center;	
+}
+
+.monop
+{
+	margin: 2.1% 0 2% 0;
+	color: white;
+}
+
+.monop p 
+{
+	font-size: 17px;
+	margin-top: 3px;
+}
+
+.mtitle
+{
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.charge
+{
+	height: 30px;
+	border-radius: 5px;
+	margin: 3px 0 2.5% 0;
+}
+
+#c1
+{
+	background-color: #f5b453;
+    width: 35%;
+}
+
+#c2
+{
+	background-color: #1ec31e;
+    width: 60%;
+}	
+
+#c3
+{
+	background-color: #be4141;
+    width: 15%;
+}		
