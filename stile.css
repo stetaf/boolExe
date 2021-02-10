@@ -1,12 +1,12 @@
 body 
 {
 	font-family: 'Arial';
-	background: url('background.jpg') no-repeat fixed; 
+	background: url('images/background.jpg') no-repeat fixed; 
 	background-size: cover;
 	background-repeat: no-repeat;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
 	margin: auto 19%;
 }
 
@@ -20,14 +20,14 @@ body img
 {
 	margin-top: 2.5%;
 	background-color: rgba(0,0,0,0.4);
-    border-radius: 15px;
-    padding: 6% 8.5% 9% 8.5%;
+	border-radius: 15px;
+	padding: 6% 8.5% 9% 8.5%;
 
 }
 
 @font-face {
-  font-family: fontExe;
-  src: url('RockoFLF.ttf');
+	font-family: fontExe;
+	src: url('RockoFLF.ttf');
 }
 
 .logo
@@ -58,7 +58,7 @@ div > p
 {
 	background: #00dd00;
 	padding: 1%;
-    text-align: center;	
+	text-align: center;	
 }
 
 .monop
@@ -88,17 +88,17 @@ div > p
 #c1
 {
 	background-color: #f5b453;
-    width: 35%;
+	width: 35%;
 }
 
 #c2
 {
 	background-color: #1ec31e;
-    width: 55%;
+ 	width: 55%;
 }	
 
 #c3
 {
 	background-color: #be4141;
-    width: 15%;
+    	width: 15%;
 }		
