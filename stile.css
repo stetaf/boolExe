@@ -1,0 +1,104 @@
+body 
+{
+	font-family: 'Arial';
+	background: url('images/background.jpg') no-repeat fixed; 
+	background-size: cover;
+	background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+	margin: auto 19%;
+}
+
+body img 
+{
+	width: 100%;
+	height: auto;
+}
+
+.page 
+{
+	margin-top: 2.5%;
+	background-color: rgba(0,0,0,0.4);
+    border-radius: 15px;
+    padding: 6% 8.5% 9% 8.5%;
+
+}
+
+@font-face {
+  font-family: fontExe;
+  src: url('RockoFLF.ttf');
+}
+
+.logo
+{
+	font-family: fontExe;
+	text-align: center;
+}
+
+.logo img
+{
+	width:245px; 
+	margin-top:2.5%;
+}
+
+.logo p
+{
+	color: limegreen;
+	font-size: 30px;
+	margin: 1% 0 1% 0;
+}
+
+div > p
+{
+	margin: 0 auto;
+}
+
+.options
+{
+	background: #00dd00;
+	padding: 1%;
+    text-align: center;	
+}
+
+.monop
+{
+	margin: 3% 0 2% 0;
+	color: white;
+}
+
+.monop p 
+{
+	font-size: 16px;
+	margin-top: 5px;
+}
+
+.mtitle
+{
+	font-size: 23px;
+}
+
+.charge
+{
+	height: 28px;
+	border-radius: 5px;
+	margin-top: 3px;
+}
+
+#c1
+{
+	background-color: #f5b453;
+    width: 35%;
+}
+
+#c2
+{
+	background-color: #1ec31e;
+    width: 55%;
+}	
+
+#c3
+{
+	background-color: #be4141;
+    width: 15%;
+}		
